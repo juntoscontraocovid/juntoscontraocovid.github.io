@@ -31,6 +31,38 @@
         "score": 0
       },
       "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -43.4533,
+          -22.8593
+        ],
+        "type": "Point"
+      },
+      "id": 33157,
+      "type": "Feature",
+      "properties": {
+        "score": 0,
+        "id": 33157,
+        "hash": "C83D0F21D2B956D04928E4A49CD7D0B3"
+      }
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -49.2265,
+          -25.4358
+        ],
+        "type": "Point"
+      },
+      "id": 33158,
+      "type": "Feature",
+      "properties": {
+        "score": 0,
+        "id": 33158,
+        "hash": "D5F2480C7021200971A56697D7DA9248"
+      }
     }
   ],
   "type": "FeatureCollection"
